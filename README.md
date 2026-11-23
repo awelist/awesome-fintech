@@ -98,6 +98,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for equities, ETFs, crypto, forex, bonds, and macroeconomic datasets.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
+- [FlowFeed](https://flowfeed.cc) – Real-time macro, forex and crypto news and economic calendar for AI agents, via a paid remote MCP server.
 
 ## Fraud, Risk & Compliance
 
