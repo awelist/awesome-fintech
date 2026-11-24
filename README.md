@@ -147,6 +147,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Plaid Learning Center](https://plaid.com/resources/) – Tutorials and use cases for open banking.
 
 ### Guides
+- [Anatomy of a Payment](https://digbijoylabs.github.io/anatomy-of-a-payment/) – Interactive Apache-2.0 payment-rail workbench and CC-BY-4.0 working paper covering authorization, clearing, settlement finality, ISO 20022, and double-entry ledger invariants.
 - [Embedded Finance Explained](https://www.mckinsey.com/) – Overview of embedded financial services.
 - [FinTech Regulatory Landscape](https://www.bis.org/) – Global regulatory perspectives on FinTech.
 - [Open Banking Guide](https://www.openbanking.org.uk/) – Best practices for open banking adoption.
