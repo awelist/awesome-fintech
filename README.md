@@ -130,6 +130,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and accounting for small businesses.
 - [Wave](https://www.waveapps.com/) – Free accounting and invoicing tools.
 - [TaxJar](https://www.taxjar.com/) – Automated sales tax calculation and filing.
+- [StatementFlow AI](https://statementflow.win/) – Browser-local bank statement PDF & CSV reconciliation to Excel, QuickBooks, and Xero.
 
 ## Developer Tools & Infrastructure
 
