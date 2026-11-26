@@ -113,7 +113,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Trulioo](https://www.trulioo.com/) – Global identity verification APIs.
 - [Sumsub](https://sumsub.com/) – KYC, KYB, and AML compliance platform.
 - [Jumio](https://www.jumio.com/) – AI-powered identity verification services.
-- [Kausate](https://kausate.com/) – Real-time KYB API for official company-register data with global coverage.
+- [Kausate](https://kausate.com/) – Company registry and KYB API providing company records, shareholder and beneficial ownership information, financial filings, official documents, and company change monitoring across supported jurisdictions.
 - [ComplyAdvantage](https://complyadvantage.com/) – AML risk intelligence and screening.
 
 ## Blockchain & Crypto Infrastructure
